@@ -46,7 +46,7 @@ schedule in place for these tasks and intervention methods are unclear.
 front, and warehouse of products, has sufficient locks, up-to-date
 closed-circuit television (CCTV) surveillance, as well as functioning fire
 detection and prevention systems.
-## Controls and compliance checklist exemplar
+## Controls and compliance checklist
 ### Controls assessment checklist
 #### Least Privilege: Currently, all employees have access to customer data; privileges need to be limited to reduce the risk of a breach.                                             
 - [ ] Yes
