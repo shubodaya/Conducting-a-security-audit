@@ -1,5 +1,5 @@
 # Security audit on Botium Toys company 
-#### The company has a single physical location, which serves as its main office, a storefront, and a warehouse for its products. 
+#### This company is a fictional company. The company has a single physical location, which serves as its main office, a storefront, and a warehouse for its products. 
 ## Scope and goals of the audit
 #### Scope: The scope of this audit is defined as the entire security program at Botium Toys. This includes their assets like employee equipment and devices, their internal network, and their systems. To review the assets Botium Toys has and the controls and compliance practices they have in place.
 #### Goals: Assessing existing assets and completing the controls and compliance checklist to determine which controls and compliance best practices need to be implemented to improve Botium Toys’ security posture.
